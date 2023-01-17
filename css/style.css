@@ -9767,8 +9767,10 @@ textarea.form-control {
     stroke-dashoffset: -136px; } }
 
 
-
-
     .footer-map{
+      margin: 0px;
+    }
+
+    .section-map{
       margin: 0px;
     }
